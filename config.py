@@ -1,0 +1,9 @@
+FOLDS = 5
+EPOCHS = 5
+SIZE_IMG = 384
+BATCH_SIZE = 4
+PRETRAINED = False
+SCHEDULER = 'CosineAnnealingLR'
+T_MAX = 10
+LR = 1e-5
+MIN_LR = 1e-6
