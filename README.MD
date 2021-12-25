@@ -1,7 +1,7 @@
 ## TRAINING =======================================================
 
 <div align="center">
-  <img src="flow-solution/solution.png" alt="train">
+  <img src="flow-solution/flow-solution.png" alt="train">
 </div>
 
 ####Qua trinh training thuc hien theo 3 buoc: (training.sh)
